@@ -28,7 +28,7 @@ If you're interested in contributing to the development of this Chrome extension
 
 If you find this Chrome extension useful and would like to support its ongoing development and maintenance, you can consider making a donation. Your support is greatly appreciated.
 
-- Buy Me a Coffee: [# Chrome Extension](https://www.buymeacoffee.com/Atophite)https://www.buymeacoffee.com/Atophite
+- Buy Me a Coffee: (https://www.buymeacoffee.com/Atophite)https://www.buymeacoffee.com/Atophite
 
 
 
